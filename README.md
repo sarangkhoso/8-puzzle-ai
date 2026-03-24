@@ -13,8 +13,6 @@ A **web-based interactive 8-Puzzle solver** using multiple AI search algorithms,
 - [Installation & Deployment](#installation--deployment)  
 - [Usage](#usage)  
 - [Technical Details](#technical-details)  
-- [Screenshots](#screenshots)  
-- [License](#license)
 
 ---
 
